@@ -6,7 +6,23 @@ A production-ready mobile application for purchasing and managing eSIM data plan
 
 ## Screenshots
 
-<!-- Screenshots will be added here -->
+### Sign In
+<img src="screenshots/signin.png" width="300" />
+
+### Store — eSIM Marketplace
+<img src="screenshots/store.png" width="300" />
+
+### Country Plans
+<img src="screenshots/country.png" width="300" />
+
+### Wallet — Add Funds
+<img src="screenshots/wallet.png" width="300" />
+
+### Profile
+<img src="screenshots/profile.png" width="300" />
+
+### Refer & Earn
+<img src="screenshots/referral.png" width="300" />
 
 ## What It Does
 
